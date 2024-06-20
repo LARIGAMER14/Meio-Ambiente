@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Opta por levar suas próprias sacolas reutilizáveis",
-                afirmacao: "Você contribui para a preservação ambiental de muitas maneiras eficientes, "
+                afirmacao: "Você contribui para a preservação ambiental de muitas maneiras eficientesg "
             },
             {
                 texto: "Pega as sacolas de plástico oferecidas para facilitar o transporte",
@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Reduzo o consumo de plástico e começo a optar por produtos reutilizáveis.",
-                afirmacao: "ajudando na redução da poluição plástica, você incentiva os outros e faz a diferença."
+                afirmacao: "Ajudando na redução da poluição plástica, você incentiva os outros e faz a diferença."
             },
             {
                 texto: "Continuo com meus hábitos normais, pois acredito que pequenas mudanças não fazem diferença.",
