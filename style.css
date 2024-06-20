@@ -46,9 +46,5 @@ button:hover{
 
 .caixa-perguntas{
 padding: 25px;
-font-size: larger;
-}
-
-.caixa-alternativas{
-    font-size: xx-large;
+font-size: 100px;
 }
