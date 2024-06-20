@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "Continuo com meus hábitos normais, pois acredito que pequenas mudanças não fazem diferença.",
-                afirmacao: "Sempre reconsidere a importância das pequenas ações individuais na preservação."
+                afirmacao: "Sempre reconsidere a importância das pequenas ações individuais na preservação,"
             }
         ]
     },
@@ -53,7 +53,7 @@ const perguntas = [
             },
             {
                 texto: "Ignorar o vazamento, pois não é responsável pela manutenção do parque.",
-                afirmacao: "O impacto ambiental de pequenos gestos errados pode virar algo gigante."
+                afirmacao: "o impacto ambiental de pequenos gestos errados pode virar algo gigante."
             }
         ]
     },
