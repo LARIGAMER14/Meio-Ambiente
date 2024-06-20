@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "Pega as sacolas de plástico oferecidas para facilitar o transporte",
-                afirmacao: "Talvez usando menos de plástico descartável, tudo seria melhor."
+                afirmacao: "Talvez usando menos plástico descartável, tudo seria melhor."
             }
         ]
     },
