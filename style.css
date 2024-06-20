@@ -48,3 +48,13 @@ button:hover{
 padding: 25px;
 font-size: larger;
 }
+
+body {
+    align-items: center;
+    background-image: url("../images/https://static.preparaenem.com/2022/08/meio-ambiente.jpg");
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+  }
