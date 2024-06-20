@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "Assim que saiu da aula de dança você se depara com uma bateria de celular no chão, que foi descartada incorretamente. Qual é o seu primeiro pensamento?",
         alternativas: [
             {
-                texto: "Quem jogou isso?!",
+                texto: "Eu que não vou pegar, o lixo não é meu.",
                 afirmacao: "De começo você ficou procurando quem foi. "
             },
             {
