@@ -61,12 +61,12 @@ const perguntas = [
         enunciado: "Você decide ir dar uma volta a praia para ver o meio ambiente, mas você encontra lixo deixado por outras pessoas. Como você lida com essa situação? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Recolhe o lixo encontrado para descartá-lo corretamente em um ponto de coleta.",
+                afirmacao: "Demonstra compromisso com a conservação dos ecossistemas marinhos e a preservação da vida selvagem."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Ignora o lixo, pois não foi você quem o deixou lá..",
+                afirmacao: "Pode considerar o impacto ambiental coletivo de deixar o lixo nas praias e refletir sobre a responsabilidade compartilhada na preservação ambiental. "
             }
         ]
     },
