@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "Continuo com meus hábitos normais, pois acredito que pequenas mudanças não fazem diferença.",
-                afirmacao: "Sempre reconsidere a importância das pequenas ações individuais na preservação do meio ambiente."
+                afirmacao: "Sempre reconsidere a importância das pequenas ações individuais na preservação."
             }
         ]
     },
@@ -53,7 +53,7 @@ const perguntas = [
             },
             {
                 texto: "Ignorar o vazamento, pois não é responsável pela manutenção do parque.",
-                afirmacao: "Reconsiderando o impacto ambiental de pequenos gestos e a importância de agir em prol da sustentabilidade."
+                afirmacao: "O impacto ambiental de pequenos gestos errados pode virar algo gigante."
             }
         ]
     },
@@ -61,7 +61,7 @@ const perguntas = [
         enunciado: "Você decide ir dar uma volta a praia para ver o meio ambiente, mas você encontra lixo deixado por outras pessoas. Como você lida com essa situação? ",
         alternativas: [
             {
-                texto: "Recolhe o lixo encontrado para descartá-lo corretamente em um ponto de coleta.",
+                texto: "Recolher o lixo encontrado para descartá-lo corretamente em um ponto de coleta.",
                 afirmacao: "O seu compromisso com a conservação dos ecossistemas por ai, incentivou outras pessoas a fazerem o mesmo, ajudando o meio ambiente. Cada ajuda faz a diferença."
             },
             {
