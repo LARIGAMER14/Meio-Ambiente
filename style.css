@@ -37,13 +37,13 @@ button {
     border-radius: 20px;
     padding: 20px;
     transition: background-color 0.3s;
+    font-size: 80px;
 }
 
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
-    font-size: 80px;
-}
+    }
 
 .caixa-perguntas{
 padding: 25px;
