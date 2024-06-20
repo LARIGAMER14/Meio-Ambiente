@@ -42,6 +42,7 @@ button {
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
+    font-size: 10px;
 }
 
 .caixa-perguntas{
