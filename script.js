@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Opta por levar suas próprias sacolas reutilizáveis",
-                afirmacao: "Você contribuiu para a preservação ambiental de muitas maneiras."
+                afirmacao: "Você contribui para a preservação ambiental de muitas maneiras eficientes, "
             },
             {
                 texto: "Pega as sacolas de plástico oferecidas para facilitar o transporte",
@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Reduzo o consumo de plástico e começo a optar por produtos reutilizáveis.",
-                afirmacao: "Você ajudou na redução da poluição plástica."
+                afirmacao: "seja ajudando na redução da poluição plástica, você também que faz a diferença."
             },
             {
                 texto: "Continuo com meus hábitos normais, pois acredito que pequenas mudanças não fazem diferença.",
@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tenta fechar a torneira ou notifica um funcionário do parque sobre o vazamento.",
-                afirmacao: "A sua preocupação com pequenas coisas faz com que tenha um uso responsável da água e conservação dos recursos naturais."
+                afirmacao: "A sua preocupação com pequenas coisas fez com que várias pessoas façam o uso correto de descarte e conservem os recursos naturais."
             },
             {
                 texto: "Ignorar o vazamento, pois não é responsável pela manutenção do parque.",
@@ -62,7 +62,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Recolhe o lixo encontrado para descartá-lo corretamente em um ponto de coleta.",
-                afirmacao: "O seu compromisso com a conservação dos ecossistemas por ai, incentivou outras pessoas a fazerem o mesmo."
+                afirmacao: "O seu compromisso com a conservação dos ecossistemas por ai, incentivou outras pessoas a fazerem o mesmo, ajudando o meio ambiente. Cada ajuda faz a diferença."
             },
             {
                 texto: "Ignora o lixo, pois não foi você quem o deixou lá..",
