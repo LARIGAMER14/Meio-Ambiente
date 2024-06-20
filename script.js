@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tenta fechar a torneira ou notifica um funcionário do parque sobre o vazamento.",
-                afirmacao: "A sua preocupação com pequenas coisas fez com que várias pessoas fizessem o uso correto de descarte e conseraram os recursos naturais."
+                afirmacao: "A sua preocupação com pequenas coisas fez com que várias pessoas fizessem o uso correto de descarte e consevaram os recursos naturais."
             },
             {
                 texto: "Ignorar o vazamento, pois não é responsável pela manutenção do parque.",
