@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ignoro, o lixo não é meu.",
-                afirmacao: "Pode não ter se sentido diretamente responsável, mas é importante conscientizar sobre a responsabilidade coletiva. "
+                afirmacao: "É sempre importante conscientizar sobre a responsabilidade coletiva. "
             },
             {
                 texto: "Decido pegar e jogar no lixo mais próximo.",
-                afirmacao: "Demonstrou preocupação com o ambiente e agiu para preservá-lo."
+                afirmacao: "É importante demonstrar preocupação com o ambiente para preservá-lo."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Opta por levar suas próprias sacolas reutilizáveis",
-                afirmacao: "Está contribuindo ativamente para a redução da poluição plásticaEscolhe reduzir o consumo de plástico e contribuir para a preservação ambiental."
+                afirmacao: "Você contribuiu para a preservação ambiental de muitas maneiras."
             },
             {
                 texto: "Pega as sacolas de plástico oferecidas para facilitar o transporte",
-                afirmacao: "Pode considerar formas alternativas de transporte dos produtos que não envolvam o uso de plástico descartável."
+                afirmacao: "Talvez usando menos de plástico descartável, tudo seria melhor."
             }
         ]
     },
@@ -36,24 +36,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Reduzo o consumo de plástico e começo a optar por produtos reutilizáveis.",
-                afirmacao: "Está contribuindo ativamente para a redução da poluição plástica."
+                afirmacao: "Você ajudou na redução da poluição plástica."
             },
             {
                 texto: "Continuo com meus hábitos normais, pois acredito que pequenas mudanças não fazem diferença.",
-                afirmacao: "Pode reconsiderar a importância das pequenas ações individuais na preservação do meio ambiente."
+                afirmacao: "Sempre reconsidere a importância das pequenas ações individuais na preservação do meio ambiente."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Durante uma caminhada para casa, você encontra uma torneira pingando água continuamente. Como você reage?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Tenta fechar a torneira ou notifica um funcionário do parque sobre o vazamento.",
+                afirmacao: "A sua preocupação com pequenas coisas faz com que tenha um uso responsável da água e conservação dos recursos naturais."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Ignorar o vazamento, pois não é responsável pela manutenção do parque.",
+                afirmacao: "Reconsiderando o impacto ambiental de pequenos gestos e a importância de agir em prol da sustentabilidade."
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Recolhe o lixo encontrado para descartá-lo corretamente em um ponto de coleta.",
-                afirmacao: "Demonstra compromisso com a conservação dos ecossistemas marinhos e a preservação da vida selvagem."
+                afirmacao: "O seu compromisso com a conservação dos ecossistemas por ai, incentivou outras pessoas a fazerem o mesmo."
             },
             {
                 texto: "Ignora o lixo, pois não foi você quem o deixou lá..",
-                afirmacao: "Pode considerar o impacto ambiental coletivo de deixar o lixo nas praias e refletir sobre a responsabilidade compartilhada na preservação ambiental. "
+                afirmacao: "Considerando o impacto ambiental coletivo de deixar o lixo em lugares não apropriados, você deveria refletir mais sobre a responsabilidade compartilhada na preservação ambiental. "
             }
         ]
     },
