@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url("../images/https://static.preparaenem.com/2022/08/meio-ambiente.jpg");
+    background-image: url("../images/meio-ambiente.webp");
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
