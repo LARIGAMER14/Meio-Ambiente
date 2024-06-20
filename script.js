@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Reduzo o consumo de plástico e começo a optar por produtos reutilizáveis.",
-                afirmacao: "Ajudando na redução da poluição plástica, você incentiva os outros e faz a diferença."
+                afirmacao: "Ajudando na redução de plásticos, você incentiva os outros e faz a diferença."
             },
             {
                 texto: "Continuo com meus hábitos normais, pois acredito que pequenas mudanças não fazem diferença.",
