@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Opta por levar suas próprias sacolas reutilizáveis",
-                afirmacao: "Você contribui para a preservação ambiental de muitas maneiras eficientesg "
+                afirmacao: "Você contribui para a preservação ambiental de muitas maneiras eficientes"
             },
             {
                 texto: "Pega as sacolas de plástico oferecidas para facilitar o transporte",
