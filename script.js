@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Assim que saiu da aula de dança você se depara com uma bateria de celular no chão, que foi descartada incorretamente. Qual é o seu primeiro pensamento?
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Quem jogou isso?!",
+                afirmacao: "De começo você ficou procurando quem foi. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "!",
+                afirmacao: "Vou logo jogar isso fora."
             }
         ]
     },
