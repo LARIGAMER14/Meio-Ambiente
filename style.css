@@ -37,7 +37,7 @@ button {
     border-radius: 20px;
     padding: 20px;
     transition: background-color 0.3s;
-    font-size: 80px;
+    font-size: 25px;
 }
 
 button:hover{
