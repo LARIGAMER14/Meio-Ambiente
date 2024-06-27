@@ -19,7 +19,11 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Logo após, você está comprando mantimentos no supermercado e percebe que as sacolas de plástico estão disponíveis gratuitamente. O que você faz?",
+        enunciado: "Logo após, você está comCom este código, algumas opções de café são criadas. E então, quando o usuário clica em uma destas opções, o café se torna filho do elemento containerDeOpcoes e portanto, passa a ser exibido na tela como um elemento HTML.
+
+No entanto, alguns métodos para que este código funcione estão faltando, para corrigir isso, ordene todos os blocos abaixo que preencham corretamente as lacunas.
+
+Escreva a sequência correta de blocos na linha a seguir:prando mantimentos no supermercado e percebe que as sacolas de plástico estão disponíveis gratuitamente. O que você faz?",
         alternativas: [
             {
                 texto: "Opta por levar suas próprias sacolas reutilizáveis",
