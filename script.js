@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "Continuo com meus hábitos normais, pois acredito que pequenas mudanças não fazem diferença.",
-                afirmacao: "Sempre reconsidere a importância das pequenas ações individuais na preservação,"
+                afirmacao: "Sempre reconsidere a importância das pequenas ações individuais na preservação."
             }
         ]
     },
@@ -53,7 +53,7 @@ const perguntas = [
             },
             {
                 texto: "Ignorar o vazamento, pois não é responsável pela manutenção do parque.",
-                afirmacao: "o impacto ambiental de pequenos gestos errados pode virar algo gigante."
+                afirmacao: "O impacto ambiental de pequenos gestos errados pode virar algo gigante."
             }
         ]
     },
@@ -65,7 +65,7 @@ const perguntas = [
                 afirmacao: "O seu compromisso com a conservação dos ecossistemas por ai, incentivou outras pessoas a fazerem o mesmo, ajudando o meio ambiente. Cada ajuda faz a diferença."
             },
             {
-                texto: "Ignora o lixo, pois não foi você quem o deixou lá..",
+                texto: "Ignora o lixo, pois não foi você quem o deixou lá.",
                 afirmacao: "Considerando o impacto ambiental coletivo de deixar o lixo em lugares não apropriados, você deveria refletir mais sobre a responsabilidade compartilhada na preservação ambiental. "
             }
         ]
